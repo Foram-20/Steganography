@@ -5,9 +5,9 @@
 This project implements **image-based steganography** to securely hide secret messages within images. The encoded message can only be retrieved using a passcode, ensuring **confidentiality and protection** from unauthorized access.  
 
 ## 🛠️ Technologies Used  
--**Python** – Utilized for the steganography algorithm.<br>
--**OpenCV** – Enables image processing and pixel manipulation.<br>
--**OS Module** – Manages file operations and image handling.<br>
+🔹**Python** – Utilized for the steganography algorithm.<br>
+🔹**OpenCV** – Enables image processing and pixel manipulation.<br>
+🔹**OS Module** – Manages file operations and image handling.<br>
 
  ## Key Features:
 ✅ **Stealthy Data Hiding** – Information is embedded within image pixels without altering the image’s appearance.<br>
